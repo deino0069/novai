@@ -1,0 +1,11 @@
+gTTS==2.5.3
+openai==1.43.0
+PyAudio==0.2.14
+pygame==2.6.0
+pypiwin32==223
+python-dotenv==1.0.1
+pyttsx3==2.91
+requests==2.32.3
+setuptools==74.0.0
+SpeechRecognition==3.10.4
+
